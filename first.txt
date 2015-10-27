@@ -13,3 +13,5 @@ addmodification
 checkinchangetoremote
 
 Clone
+
+Fetch
