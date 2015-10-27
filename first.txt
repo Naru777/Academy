@@ -11,3 +11,5 @@ addmodification
 >>>>>>> v1.1
 
 checkinchangetoremote
+
+Clone
