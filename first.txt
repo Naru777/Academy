@@ -9,3 +9,5 @@ modify on master
 ver1.1
 addmodification
 >>>>>>> v1.1
+
+checkinchangetoremote
